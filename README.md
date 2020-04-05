@@ -3,7 +3,7 @@
 The objective of this project is to familiarize myself with p5.js with a simple project such as developing a board where you can paint on:
 
 <p align="center">
-  <img align="center" src="readme assets/demo.png" alt="Demo png"></img>
+  <img align="center" src="readme assets/demo.PNG" alt="Demo png"></img>
 </p>
 <p align="center">
    <b>Figure 1 - Baby MS Paint Demo</b>
